@@ -1,0 +1,44 @@
+<h1 style="text-align: center;"><a href="https://maktabkhooneh.org">Maktabkhooneh</a> Python Course Assignment</h1>
+
+This repository contains the assignment and exercises completed during the comprehensive [python course on maktabkhooneh](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-mk346/)
+the purpose of these assignment is to strengthen python programming skills and familiarize myself with various concepts of the language.
+
+---
+### contents :
+
+### Assignment 1 : Hello World printing practice
+![Screenshot of Assignment 1 Problem](assignments and project sources/screenshot.assignment1.png)  
+[Link to Assignment 1 Python code](tamin1.py)
+
+### Assignment 2 : Interrupted string practice
+![Screenshot of Assignment 2 Problem](assignments and project sources/screenshot.assignment2.png)  
+[Link to Assignment 2 Python code](tamin2.py)
+
+### Assignment 3 : List manipulation practice
+![Screenshot of Assignment 3 Problem](assignments and project sources/screenshot.assignment3.png)  
+[Link to Assignment 3 Python code](tamin3.py)
+
+### Assignment 4 : Fruit vocabulary practice
+![Screenshot of Assignment 4 Problem](assignments and project sources/screenshot.assignment4.png)  
+[Link to Assignment 4 Python code](tamin4.py)
+
+### Assignment 5 : distance between two points with tuples practice
+![Screenshot of Assignment 5 Problem](assignments and project sources/screenshot.assignment5.png)  
+[Link to Assignment 5 Python code](tamin5.py)
+
+### Assignment 6 : Python City Wizard Practice
+![Screenshot of Assignment 6 Problem](assignments and project sources/screenshot.assignment6.png)  
+[Link to Assignment 6 Python code](tamin6.py)
+
+### Assignment 7 : Chaining operators practice
+![Screenshot of Assignment 7 Problem](assignments and project sources/screenshot.assignment7.png)  
+[Link to Assignment 7 Python code](tamin7.py)
+
+### Assignment 8 : Conditional store practice
+![Screenshot of Assignment 8 Problem](assignments and project sources/screenshot.assignment8.png)  
+[Link to Assignment 8 Python code](tamin8.py)
+
+### another assignments is coming soon ...
+---
+### About Me :
+Ahmadreza Haj Talebi, Aerospace Engineering student.
