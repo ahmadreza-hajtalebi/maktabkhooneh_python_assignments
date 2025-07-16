@@ -7,36 +7,40 @@ the purpose of these assignment is to strengthen python programming skills and f
 ### contents :
 
 ### Assignment 1 : Hello World printing practice
-![Screenshot of Assignment 1 Problem](assignments and project sources/screenshot.assignment1.png)  
+![Screenshot of Assignment 1 Problem](assignments and project sources/Screenshot.assignment1.png)  
 [Link to Assignment 1 Python code](tamin1.py)
 
 ### Assignment 2 : Interrupted string practice
-![Screenshot of Assignment 2 Problem](assignments and project sources/screenshot.assignment2.png)  
+![Screenshot of Assignment 2 Problem](assignments and project sources/Screenshot.assignment2.png)  
 [Link to Assignment 2 Python code](tamin2.py)
 
 ### Assignment 3 : List manipulation practice
-![Screenshot of Assignment 3 Problem](assignments and project sources/screenshot.assignment3.png)  
+![Screenshot of Assignment 3 Problem](assignments and project sources/Screenshot.assignment3.png)  
 [Link to Assignment 3 Python code](tamin3.py)
 
 ### Assignment 4 : Fruit vocabulary practice
-![Screenshot of Assignment 4 Problem](assignments and project sources/screenshot.assignment4.png)  
+![Screenshot of Assignment 4 Problem](assignments and project sources/Screenshot.assignment4.png)  
 [Link to Assignment 4 Python code](tamin4.py)
 
 ### Assignment 5 : distance between two points with tuples practice
-![Screenshot of Assignment 5 Problem](assignments and project sources/screenshot.assignment5.png)  
+![Screenshot of Assignment 5 Problem](assignments and project sources/Screenshot.assignment5.png)  
 [Link to Assignment 5 Python code](tamin5.py)
 
 ### Assignment 6 : Python City Wizard Practice
-![Screenshot of Assignment 6 Problem](assignments and project sources/screenshot.assignment6.png)  
+![Screenshot of Assignment 6 Problem](assignments and project sources/Screenshot.assignment6.png)  
 [Link to Assignment 6 Python code](tamin6.py)
 
 ### Assignment 7 : Chaining operators practice
-![Screenshot of Assignment 7 Problem](assignments and project sources/screenshot.assignment7.png)  
+![Screenshot of Assignment 7 Problem](assignments and project sources/Screenshot.assignment7.png)  
 [Link to Assignment 7 Python code](tamin7.py)
 
 ### Assignment 8 : Conditional store practice
-![Screenshot of Assignment 8 Problem](assignments and project sources/screenshot.assignment8.png)  
+![Screenshot of Assignment 8 Problem](assignments and project sources/Screenshot.assignment8.png)  
 [Link to Assignment 8 Python code](tamin8.py)
+
+### Assignment 9 : The magic of the ring practice
+![Screenshot of Assignment 9 Problem](assignments and project sources/Screenshot.assignment9.png)  
+[Link to Assignment 8 Python code](tamin9.py)
 
 ### another assignments is coming soon ...
 ---
