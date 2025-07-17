@@ -49,10 +49,49 @@ the purpose of these assignment is to strengthen python programming skills and f
 ![Screenshot of Assignment 10 Problem](assignment_resources/Screenshot.assignment10.2.png)  
 [Link to Assignment 10 Python code](tamin10.py)
 
-## Assignment 11 : 
+## Assignment 11 : Magic Number Spell Practice
 ![Screenshot of Assignment 11 Problem](assignment_resources/Screenshot.assignment11.1.png)
 ![Screenshot of Assignment 11 Problem](assignment_resources/Screenshot.assignment11.2.png)  
 [Link to Assignment 11 Python code](tamin11.py)
+
+## Assignment 12 : Hello Function practice: Part 1
+![Screenshot of Assignment 12 Problem](assignment_resources/Screenshot.assignment12.png) 
+[Link to Assignment 12 Python code](tamin12.py)
+
+## Assignment 13 : Hello Function practice: Part 2
+![Screenshot of Assignment 13 Problem](assignment_resources/Screenshot.assignment13.png)
+[Link to Assignment 13 Python code](tamin13.py)
+
+## Assignment 14 : Positive or negative practice
+![Screenshot of Assignment 14 Problem](assignment_resources/Screenshot.assignment14.png)
+
+[Link to Assignment 14 Python code](tamin14.py)
+
+## Assignment 15 : Sum of squares practice
+![Screenshot of Assignment 15 Problem](assignment_resources/Screenshot.assignment15.1.png)
+![Screenshot of Assignment 15 Problem](assignment_resources/Screenshot.assignment15.2.png)  
+[Link to Assignment 15 Python code](tamin15.py)
+
+## Assignment 16 : Pair or individual practice
+![Screenshot of Assignment 16 Problem](assignment_resources/Screenshot.assignment16.1.png)
+![Screenshot of Assignment 11 Problem](assignment_resources/Screenshot.assignment16.2.png)  
+[Link to Assignment 16 Python code](tamin16.py)
+
+## Assignment 17 : Big or small practice
+![Screenshot of Assignment 17 Problem](assignment_resources/Screenshot.assignment17.1.png)
+![Screenshot of Assignment 17 Problem](assignment_resources/Screenshot.assignment17.2.png)  
+[Link to Assignment 17 Python code](tamin17.py)
+
+## Assignment 18 : Input from args practice
+![Screenshot of Assignment 18 Problem](assignment_resources/Screenshot.assignment18.1.png)
+![Screenshot of Assignment 18 Problem](assignment_resources/Screenshot.assignment18.2.png)  
+[Link to Assignment 18 Python code](tamin18.py)
+
+## Assignment 19 : Take the evens practice
+![Screenshot of Assignment 19 Problem](assignment_resources/Screenshot.assignment19.1.png)
+![Screenshot of Assignment 19 Problem](assignment_resources/Screenshot.assignment19.2.png)  
+[Link to Assignment 19 Python code](tamin19.py)
+
 
 
 ### another assignments is coming soon ...
