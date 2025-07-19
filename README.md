@@ -92,6 +92,15 @@ the purpose of these assignment is to strengthen python programming skills and f
 ![Screenshot of Assignment 19 Problem](assignment_resources/Screenshot.assignment19.2.png)  
 [Link to Assignment 19 Python code](tamin19.py)
 
+## Assignment 20 : The tallest building in Tehran practice
+![Screenshot of Assignment 20 Problem](assignment_resources/Screenshot.assignment20.1.png)
+![Screenshot of Assignment 20 Problem](assignment_resources/Screenshot.assignment20.2.png)  
+[Link to Assignment 20 Python code](tamin20.py)
+
+## Assignment 21 : Animal management system design in a zoo practice
+![Screenshot of Assignment 21 Problem](assignment_resources/Screenshot.assignment21.1.png)
+![Screenshot of Assignment 21 Problem](assignment_resources/Screenshot.assignment21.2.png)  
+[Link to Assignment 21 Python code](tamin21.py)
 
 
 ### another assignments is coming soon ...
