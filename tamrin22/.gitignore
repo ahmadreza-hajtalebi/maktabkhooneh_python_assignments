@@ -1,0 +1,13 @@
+# Python specific ignores
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+*.env
+.DS_Store
+
+# Build and distribution files
+build/
+dist/
+*.egg-info/
+*.egg
