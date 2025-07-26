@@ -163,6 +163,13 @@ the purpose of these assignment is to strengthen python programming skills and f
 
 <p>&nbsp;</p>
 
+## Assignment 25 : Web scraping practice
+![Screenshot of Assignment 25 Problem](assignment_resources/Screenshot.assignment25.1.png)<br>
+![Screenshot of Assignment 25 Problem](assignment_resources/Screenshot.assignment25.2.png)<br>
+[Link to Assignment 25 Python code](tamin25.py)
+
+<p>&nbsp;</p>
+
 ### another assignments is coming soon ...
 
 <p>&nbsp;</p>
