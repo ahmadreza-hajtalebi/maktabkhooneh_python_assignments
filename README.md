@@ -171,7 +171,9 @@ the purpose of these assignment is to strengthen python programming skills and f
 
 <p>&nbsp;</p>
 
-### another assignments is coming soon ...
+## Assignment 26 : ... practice
+![Screenshot of Assignment 26 Problem](assignment_resources/Screenshot.assignment26.png "Problem Description for Assignment 26")<br>
+[Link to Assignment 26 Python code](tamin26.py)
 
 <p>&nbsp;</p>
 
