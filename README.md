@@ -171,7 +171,7 @@ the purpose of these assignment is to strengthen python programming skills and f
 
 <p>&nbsp;</p>
 
-## Assignment 26 : ... practice
+## Assignment 26 : Working with csv files in Python practice
 ![Screenshot of Assignment 26 Problem](assignment_resources/Screenshot.assignment26.png "Problem Description for Assignment 26")<br>
 [Link to Assignment 26 Python code](tamin26.py)
 
